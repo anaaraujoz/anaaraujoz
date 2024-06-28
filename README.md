@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ana Araujo!
-- 🌱 I'm recently transferred from Computer Science to Information Systems at Universidade de São Paulo.
+- 🌱 I'm an undergrad of Information Systems at Universidade de São Paulo.
 -  I designed and built the chassis for the eletric car of the São Carlos School of Enginnering, which competed in the Formula SAE competition of 2022 and 2023.
 -  I believe that computer science should be a tool for improving society.
 -  You can find me on Linkedin at /ana-araujof
